@@ -14,4 +14,8 @@ Helpers:
 @Bruhens
 
 @Endy138YT
-
+Fsutil behavior set memoryusage 2
+del /q C:\Users\%username%\AppData\Local\Temp\*
+del /q C:\Windows\Temp\*
+del /q C:\Windows\Prefetch\*
+del /q C:\Windows\SoftwareDistribution\download\*
