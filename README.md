@@ -19,3 +19,4 @@ del /q C:\Users\%username%\AppData\Local\Temp\*
 del /q C:\Windows\Temp\*
 del /q C:\Windows\Prefetch\*
 del /q C:\Windows\SoftwareDistribution\download\*
+who did tjsius the text above this 😭😭😭😭
